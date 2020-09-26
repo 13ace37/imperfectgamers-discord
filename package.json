@@ -32,7 +32,8 @@
   "author": "Daiyaan Ijaz",
   "license": "GPL-3.0",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "discord.js": "^12.3.1",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "eslint": "^7.9.0"
